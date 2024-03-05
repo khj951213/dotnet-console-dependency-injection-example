@@ -14,5 +14,5 @@ Dependency injection (DI) is a design pattern in software development that deals
 For further details or if you want to learn other concepts of the programming language please visit blog.junedev.com!
 
 # Project Info
-Version: .Net 8
+Version: .Net 8 \
 IDE: Visual Studio 2022
